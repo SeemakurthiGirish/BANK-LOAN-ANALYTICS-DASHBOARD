@@ -61,8 +61,13 @@ This dashboard analyzes **38,576 loan applications**, providing a 360° view of 
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](https://github.com/SeemakurthiGirish/BANK-LOAN-ANALYTICS-DASHBOARD/blob/main/Bank%20Loan%20Dashboard%20Summary.png).
-![Dashboard Preview]().
+# Summary
+
+![Dashboard Preview](https://github.com/SeemakurthiGirish/BANK-LOAN-ANALYTICS-DASHBOARD/blob/main/Bank%20Loan%20Dashboard%20Summary.png)
+
+# Overview 
+
+![Dashboard Preview](https://github.com/SeemakurthiGirish/BANK-LOAN-ANALYTICS-DASHBOARD/blob/main/Bank%20Loan%20Dashboard%20Overview.png)
 ---
 
 ## 🚀 How to Use
