@@ -80,4 +80,4 @@ This dashboard analyzes **38,576 loan applications**, providing a 360° view of 
 
 ## 📬 Connect
 
-Feel free to connect with me on [LinkedIn](#) or check out my other projects on [GitHub](https://github.com/SeemakurthiGirish).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/girish-seemakurthi-572507374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or check out my other projects on [GitHub](https://github.com/SeemakurthiGirish).
